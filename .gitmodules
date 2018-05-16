@@ -1,0 +1,9 @@
+[submodule "bo-configuration"]
+	path = bo-configuration
+	url = https://github.com/alex8023/bo-configuration.git
+[submodule "bo-common"]
+	path = bo-common
+	url = https://github.com/alex8023/bo-common.git
+[submodule "bo-entity"]
+	path = bo-entity
+	url = https://github.com/alex8023/bo-entity.git
